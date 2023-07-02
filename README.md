@@ -4,8 +4,8 @@ API for Polling Questions - Coding Ninjas Backend Skill Test Project
 Task: Need to create an API where anyone can create questions with options and also add votes to it
 
 ---
-'install'npm intall' to install npm, or 'npm start' for start the application.
-'or use'node index.js' to start the application.
+' run `npm install` to install npm, or `npm start` for start application'
+' or use `node index.js` to start'
 ' run `npm audit fix` to fix them, or `npm audit` for details'
 
 ## Features
